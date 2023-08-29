@@ -1,5 +1,7 @@
 Bienvenido.
 
-He aquí el relato de la historia.
+He aquí el relato de la historia. 
+
+Y aquí la corrección de la historia.
 
 Gracias.
