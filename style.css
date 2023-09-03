@@ -34,6 +34,12 @@ body {
     font-size: 20px;
 }
 
+#container #imagen {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1em;
+}
+
 #post {
     padding: 1em;
 }
